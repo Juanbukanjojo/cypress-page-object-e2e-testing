@@ -1,0 +1,15 @@
+{
+    "validUser": {
+        "name": "John Doe",
+        "password": "Test@1234",
+        "email": "Testid@gmail.com",
+        "firstName": "John",
+        "lastname": "Doe",
+        "address": "Main Street",
+        "country": "United States",
+        "state": "California",
+        "city": "Los Angeles",
+        "zipcode": "90001",
+        "mobileNumber": "081234567890"
+    }
+}
